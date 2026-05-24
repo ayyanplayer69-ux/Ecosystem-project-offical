@@ -13,7 +13,7 @@ body {
 
 table {
     width: 80%;
-    margin: 30px auto; /* Centers the tables on the page */
+    margin: 30px auto; 
     
     /* Simple solid border layout */
     border: 3px solid rgb(255, 255, 255);
@@ -24,14 +24,14 @@ table {
 
 th {
     padding: 15px;
-    border-bottom: 3px solid rgb(255, 255, 255); /* Simple line below header */
+    border-bottom: 3px solid rgb(255, 255, 255); 
 }
 
 td {
     padding: 15px;
 }
 ul {
-    text-align: left; /* Keeps your list readable */
+    text-align: left; 
 }
 #skills-section {
     display: none;
